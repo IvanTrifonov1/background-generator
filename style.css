@@ -1,0 +1,8 @@
+body {
+
+  text-align: center;
+  margin-top: 50px;
+  font: 1.5em "Siracha",cursive, sans-serif;
+  background: linear-gradient(90deg, rgba(153,0,255,1) 0%, rgba(255,205,0,1) 100%, rgba(34,36,0,0.9755252442773985) 100%);
+
+}
